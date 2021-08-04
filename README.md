@@ -8,4 +8,4 @@ The model is built on the presumption of homogeneous and consistent oxygen/water
 The proposed model includes only six physically inspired material parameters. Thus, while it is computationally efficient, it shows good agreement with own experimental data, which performed on various range of accelerated aging temperatures and times. With respect to its computational efficiency, simplicity, accuracy, and interpret-ability, the model is the right choice for advanced implementations in FE programs.
 
 
-A Tutorial is uploaded under the name of "output.mp4". You need x265 codec to play this video. I suggest use "PotPlayer" software.
+A Tutorial has been uploaded under the name of "output.mp4". You need x265 codec to play this video. I suggest use "PotPlayer" software.
